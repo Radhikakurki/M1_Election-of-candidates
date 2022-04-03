@@ -1,0 +1,72 @@
+
+
+ ###### Welcome to Election/Voting 2022 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 
+1
+
+
+ ### Please choose your Candidate ####
+
+
+ 1. Ramya
+ 2. vinutha
+ 3. sangeetha
+ 4. Bharath
+ 5. Prutvi
+ 6. None of These
+
+ Input your choice (1 - 5) : 
+1
+
+ thanks for vote !!
+
+ ###### Welcome to Election/Voting 2022 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 
+2
+
+
+ ##### Voting Statics ####
+ Ramya - 1 
+ Ramya - 0 
+ Ramya - 0 
+ Ramya - 0 
+ Ramya - 0 
+ Spoiled votes - 0 
+
+ ###### Welcome to Election/Voting 2022 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 
+3
+
+
+  #### Leading Candiate ####
+
+[Ramya]
+
+ ###### Welcome to Election/Voting 2022 #####
+
+ 1. Cast the Vote
+ 2. Find Vote Count
+ 3. Find leading Candidate
+ 0. Exit
+
+ Please enter your choice : 
+
+Session Killed due to Timeout.
